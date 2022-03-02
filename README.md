@@ -1,2 +1,3 @@
 HTML CSS JS
 May be the simplest Tic Tac Toe implementation...
+ not much but it's honest work ;)
